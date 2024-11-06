@@ -2,3 +2,9 @@
 /section1/circles.mat
 /section1/data/
 /section1/datasets/
+
+*.pkl
+/section2/15SceneData/
+/section2/15ScenesData.zip
+/section2/cat.jpg
+/section2/dog.jpg
